@@ -72,6 +72,7 @@ It is a collection of useful algorithms and data structures implemented in Cairo
 - [x] [GCD of N numbers](src/math/gcd_of_n_numbers.cairo)
 - [x] [Aliquot Sum](src/math/aliquot_sum.cairo)
 - [x] [Collatz Sequence](src/math/collatz_sequence.cairo)
+- [x] [Fast Powering](src/math/fast_power.cairo)
 
 ### Sorting 
 
